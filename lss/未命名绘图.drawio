@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T11:57:01.443Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="sD0G0wgxn_l9TvQsA-L5" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T12:11:09.935Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="irRaBp4mDK_toHXESWQX" version="20.5.3" type="github">
   <diagram id="LNbAZdOFNu4VXM5nDH44" name="第 1 页">
     <mxGraphModel dx="942" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -39,6 +39,21 @@
         </mxCell>
         <mxCell id="SSFWYBEc9gFZjzx2yJYk-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
           <mxGeometry x="90" y="450" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFWYBEc9gFZjzx2yJYk-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="426.95" width="74.7" height="96.1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFWYBEc9gFZjzx2yJYk-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="426.95" width="79.8" height="96.9" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFWYBEc9gFZjzx2yJYk-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.9_segment_display;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="426.95" width="74.7" height="96.1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFWYBEc9gFZjzx2yJYk-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.9_segment_display_with_dp;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="490.00000000000006" y="425" width="79.8" height="96.9" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFWYBEc9gFZjzx2yJYk-18" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.f_m_3_conductor_4" vertex="1" parent="1">
+          <mxGeometry x="247.35" y="10" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
